@@ -9,7 +9,7 @@ La cláusula HAVING es usada para aplicar condiciones/filtros DESPUÉS de dar lu
 
 <br>
 
-### **¿Para qué se usan break, continue y pass en python?**
+### **2) ¿Para qué se usan break, continue y pass en python?**
 <br>
 Break: finaliza un bucle (loop), continuando con las sentencias que le siguen a éste.
 Continue: finaliza la iteración en la que se encuentre dentro del bucle, omite lo que le sigue dentro de ésta iteración y continúa a la siguiente.
